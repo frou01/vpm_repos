@@ -1,28 +1,22 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"frou01's vpm listing",
+    "id":"com.frou01.vpm",
+    "url":"https://frou01.github.io/vpm_repos/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"frou01stg44hurutaka@gmail.com",
+        "name":"frou01",
+        "url":"https://github.com/frou01"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"frou01 VPM packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/frou01/vpm_repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
+        "frou01/frou01_VRC_WorldUtilities",
+        "frou01/LUPickup",
+        "frou01/GrabAnimatorController",
+        "frou01/WalkableVehicleFloor"
     ]
 }
