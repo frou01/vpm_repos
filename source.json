@@ -17,6 +17,7 @@
         "frou01/frou01_VRC_WorldUtilities",
         "frou01/LUPickup",
         "frou01/GrabAnimatorController",
-        "frou01/WalkableVehicleFloor"
+        "frou01/WalkableVehicleFloor",
+        "frou01/RBUR_Package_Git"
     ]
 }
