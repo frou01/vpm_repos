@@ -18,6 +18,7 @@
         "frou01/LUPickup",
         "frou01/GrabAnimatorController",
         "frou01/WalkableVehicleFloor",
-        "frou01/RBUR_Package_Git"
+        "frou01/RBUR_Package_Git",
+        "frou01/2ndAlphaStandard"
     ]
 }
