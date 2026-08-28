@@ -1,25 +1,28 @@
 {
-    "name":"frou01's vpm listing",
-    "id":"com.frou01.vpm",
-    "url":"https://frou01.github.io/vpm_repos/index.json",
+    "name":"Example Listing",
+    "id":"com.vrchat.example-listing",
+    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"frou01stg44hurutaka@gmail.com",
-        "name":"frou01",
-        "url":"https://github.com/frou01"
+        "email":"developer@vrchat.com",
+        "name":"VRChat",
+        "url":"https://hello.vrchat.com"
     },
-    "description":"frou01 VPM packages",
+    "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/frou01/vpm_repos",
+        "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "frou01/frou01_VRC_WorldUtilities",
-        "frou01/LUPickup",
-        "frou01/GrabAnimatorController",
-        "frou01/WalkableVehicleFloor",
-        "frou01/RBUR_Package_Git",
-        "frou01/RBUR_UI_Package_Git",
-        "frou01/2ndAlphaStandard"
+        "vrchat-community/clientsim"
+    ],
+    "packages":[
+        {
+            "name":"com.vrchat.udonsharp",
+            "releases":[
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+            ]
+        }
     ]
 }
